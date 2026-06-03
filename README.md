@@ -112,21 +112,31 @@ I build scalable, high-performance web applications with modern full-stack techn
 
 <div align="center">
 
-![Bayazid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KhBayazidAhmed&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)
+<a href="https://github.com/rowkav09/GitHub-profile-stats">
+  <img src="https://ghstats.dev/api/card?username=KhBayazidAhmed&theme=tokyonight&hide_border=false" alt="Bayazid's GitHub Stats" />
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KhBayazidAhmed&theme=github-dark-blue&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhBayazidAhmed&theme=github_dark&hide_border=false&layout=compact)
+<a href="https://github.com/rowkav09/GitHub-profile-stats">
+  <img src="https://ghstats.dev/api/langs?username=KhBayazidAhmed&theme=tokyonight&layout=bar&hide_border=false" alt="Top Languages" />
+</a>
 
 </div>
 
 ---
 
-## GitHub Trophies
+## GitHub Highlights
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KhBayazidAhmed&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
+<a href="https://github.com/rowkav09/GitHub-profile-stats">
+  <img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=streak&color=0ea5e9" alt="GitHub Streak" />
+</a>
+<a href="https://github.com/rowkav09/GitHub-profile-stats">
+  <img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=repos&color=8b5cf6" alt="Public Repositories" />
+</a>
+<a href="https://github.com/rowkav09/GitHub-profile-stats">
+  <img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=followers&color=22c55e" alt="GitHub Followers" />
+</a>
 
 </div>
 
