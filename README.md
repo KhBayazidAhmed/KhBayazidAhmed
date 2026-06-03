@@ -5,8 +5,8 @@
 ### Full Stack Developer • Next.js & React Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bayazid.bixbd.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bayazid.bixbd.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bayazidahmed29-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bayazidahmed29/)
-[![X](https://img.shields.io/badge/X-@Bayazid30081686-000000?style=for-the-badge&logo=x)](https://x.com/Bayazid30081686)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-khbayazidahmed-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khbayazidahmed)
+[![X](https://img.shields.io/badge/X-@khbayazidahmed-000000?style=for-the-badge&logo=x)](https://x.com/khbayazidahmed)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=KhBayazidAhmed&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
 
@@ -135,4 +135,5 @@ I build scalable, high-performance web applications and real-time systems using 
 
 - **Email:** [khandakerbayazidahmed@gmail.com](mailto:khandakerbayazidahmed@gmail.com)
 - **Portfolio:** [bayazid.bixbd.com](https://bayazid.bixbd.com)
-- **X / Twitter:** [@Bayazid30081686](https://x.com/Bayazid30081686)
+- **LinkedIn:** [khbayazidahmed](https://www.linkedin.com/in/khbayazidahmed)
+- **X / Twitter:** [@khbayazidahmed](https://x.com/khbayazidahmed)
