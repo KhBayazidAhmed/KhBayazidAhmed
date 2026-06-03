@@ -5,7 +5,6 @@
 ### Full Stack Developer • Next.js & React Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bayazid.bixbd.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bayazid.bixbd.com)
-[![GitHub](https://img.shields.io/badge/GitHub-KhBayazidAhmed-181717?style=for-the-badge&logo=github)](https://github.com/KhBayazidAhmed)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bayazidahmed29-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bayazidahmed29/)
 [![X](https://img.shields.io/badge/X-@Bayazid30081686-000000?style=for-the-badge&logo=x)](https://x.com/Bayazid30081686)
 
