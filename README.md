@@ -111,21 +111,9 @@ I build scalable, high-performance web applications and real-time systems using 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="210">
-      <a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=streak&color=0ea5e9" width="200" alt="GitHub Streak" /></a>
-    </td>
-    <td align="center" width="210">
-      <a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=repos&color=8b5cf6" width="200" alt="Public Repositories" /></a>
-    </td>
-    <td align="center" width="210">
-      <a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=followers&color=22c55e" width="200" alt="GitHub Followers" /></a>
-    </td>
-  </tr>
-</table>
-
-<a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/langs?username=KhBayazidAhmed&theme=tokyonight&layout=bar&hide_border=false" width="630" alt="Top Languages" /></a>
+<a href="https://github.com/KhBayazidAhmed">
+  <img src="https://streak-stats.demolab.com/?user=KhBayazidAhmed&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</a>
 
 </div>
 
