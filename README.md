@@ -112,7 +112,7 @@ I build scalable, high-performance web applications and real-time systems using 
 <div align="center">
 
 <a href="https://github.com/KhBayazidAhmed">
-  <img src="https://streak-stats.demolab.com/?user=KhBayazidAhmed&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=KhBayazidAhmed&amp;theme=tokyonight&amp;hide_border=false" alt="GitHub Streak" />
 </a>
 
 </div>
