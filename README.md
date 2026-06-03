@@ -1,44 +1,44 @@
 <div align="center">
 
-# Hi, I'm Bayazid Ahmed
+# Bayazid Ahmed
 
-### Full Stack Developer | React & Next.js Specialist | TypeScript Enthusiast
+### Full Stack Developer • Next.js & React Specialist
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bayazid.bixbd.com-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://bayazid.bixbd.com)
 [![GitHub](https://img.shields.io/badge/GitHub-KhBayazidAhmed-181717?style=for-the-badge&logo=github)](https://github.com/KhBayazidAhmed)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bayazidahmed29-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bayazidahmed29/)
+[![X](https://img.shields.io/badge/X-@Bayazid30081686-000000?style=for-the-badge&logo=x)](https://x.com/Bayazid30081686)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=KhBayazidAhmed&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
 
 </div>
 
----
-
-## About Me
-
-I build scalable, high-performance web applications with modern full-stack technologies.
-
-- Currently working on full-stack TypeScript apps and developer utilities
-- Experienced with React, Next.js, Node.js, MongoDB, PostgreSQL, and Cloudflare
-- Focused on clean architecture, smooth UX, fast APIs, and maintainable code
-- Interested in SaaS platforms, automation tools, dashboards, auth systems, and developer experience
-- Portfolio: [bayazid.bixbd.com](https://bayazid.bixbd.com)
+<p align="center">
+  <i>Building high-performance web apps, real-time systems, and edge-native tools.</i>
+</p>
 
 ---
 
-## Featured Work
+## About
 
-- **Dream It Bangladesh**  
-  Course platform for creating and selling online learning content.
+I build scalable, high-performance web applications and real-time systems using modern full-stack technologies.
 
-- **Zero IQ Store**  
-  Digital product platform for game coins and in-game currency.
+- Specialize in Next.js, React, React Native, TypeScript, and Cloudflare edge infrastructure
+- Currently developing SaaS platforms, automation tools, and utilities at BIXBD
+- Focus on clean architecture, smooth UX, and maintainable code
 
-- **LazeezCuisine Restaurant**  
-  Restaurant management and food ordering platform.
+---
 
-- **BIX BD WiFi**  
-  Captive portal and voucher management system for WiFi users.
+## Selected Projects
 
-- **Meter Balance Checker**  
-  Bulk DESCO meter balance checking platform.
+| Project | Description | Link |
+|---------|-------------|------|
+| **BIXBD** | AI-powered automation, inventory management, and digital solutions for SMBs in Bangladesh | [www.bixbd.com](https://www.bixbd.com/) |
+| **Utils BIXBD** | Real-time DESCO prepaid meter balance checker with usage analytics and SMS alerts | [utils.bixbd.com](https://utils.bixbd.com/) |
+| **WhatsApp API Gateway** | High-density unofficial WhatsApp API with AI chatbots, webhooks, and automated invoicing | [whatsapp.bixbd.com](https://whatsapp.bixbd.com/) |
+| **Quran Audio Player** | Lightweight, ad-free PWA for high-fidelity Quranic recitations with sleep timer | [quran.bixbd.com](https://quran.bixbd.com/) |
+
+> More projects on [portfolio →](https://bayazid.bixbd.com)
 
 ---
 
@@ -108,44 +108,32 @@ I build scalable, high-performance web applications with modern full-stack techn
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/rowkav09/GitHub-profile-stats">
-  <img src="https://ghstats.dev/api/card?username=KhBayazidAhmed&theme=tokyonight&hide_border=false" alt="Bayazid's GitHub Stats" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="210">
+      <a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=streak&color=0ea5e9" width="200" alt="GitHub Streak" /></a>
+    </td>
+    <td align="center" width="210">
+      <a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=repos&color=8b5cf6" width="200" alt="Public Repositories" /></a>
+    </td>
+    <td align="center" width="210">
+      <a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=followers&color=22c55e" width="200" alt="GitHub Followers" /></a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/rowkav09/GitHub-profile-stats">
-  <img src="https://ghstats.dev/api/langs?username=KhBayazidAhmed&theme=tokyonight&layout=bar&hide_border=false" alt="Top Languages" />
-</a>
+<a href="https://github.com/KhBayazidAhmed"><img src="https://ghstats.dev/api/langs?username=KhBayazidAhmed&theme=tokyonight&layout=bar&hide_border=false" width="630" alt="Top Languages" /></a>
 
 </div>
 
 ---
 
-## GitHub Highlights
+## Connect
 
-<div align="center">
-
-<a href="https://github.com/rowkav09/GitHub-profile-stats">
-  <img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=streak&color=0ea5e9" alt="GitHub Streak" />
-</a>
-<a href="https://github.com/rowkav09/GitHub-profile-stats">
-  <img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=repos&color=8b5cf6" alt="Public Repositories" />
-</a>
-<a href="https://github.com/rowkav09/GitHub-profile-stats">
-  <img src="https://ghstats.dev/api/mini?username=KhBayazidAhmed&metric=followers&color=22c55e" alt="GitHub Followers" />
-</a>
-
-</div>
-
----
-
-## Profile Views
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=KhBayazidAhmed&style=for-the-badge&color=0e75b6)](https://visitcount.itsvg.in)
-
-</div>
+- **Email:** [khandakerbayazidahmed@gmail.com](mailto:khandakerbayazidahmed@gmail.com)
+- **Portfolio:** [bayazid.bixbd.com](https://bayazid.bixbd.com)
+- **X / Twitter:** [@Bayazid30081686](https://x.com/Bayazid30081686)
